@@ -1,0 +1,107 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12287099
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           LEHD (Longitudinal Employer Household Dynamics) 2010
+Dataset:          Original Tables: Residence Area Characteristic Data
+Tables:
+
+      1. Residence Area Characteristic: All Jobs by NAICS Sector
+         Universe:  Total Number of Jobs
+         Name:       B007
+         Variables:
+            B007_001:   Total Number of Jobs: 
+            B007_002:      NAICS Sector 11 (Agriculture, Forestry, Fishing and Hunting)
+            B007_003:      NAICS Sector 21 (Mining, Quarrying, and Oil and Gas Extraction)
+            B007_004:      NAICS Sector 22 (Utilities)
+            B007_005:      NAICS Sector 23 (Construction)
+            B007_006:      NAICS Sector 31-33 (Manufacturing)
+            B007_007:      NAICS Sector 42 (Wholesale Trade)
+            B007_008:      NAICS Sector 44-45 (Retail Trade)
+            B007_009:      NAICS Sector 48-49 (Transportation and Warehousing)
+            B007_010:      NAICS Sector 51 (Information)
+            B007_011:      NAICS Sector 52 (Finance and Insurance)
+            B007_012:      NAICS Sector 53 (Real Estate and Rental and Leasing)
+            B007_013:      NAICS Sector 54 (Professional, Scientific, and Technical Services)
+            B007_014:      NAICS Sector 55 (Management of Companies and Enterprises)
+            B007_015:      NAICS Sector 56 (Administrative and Support and Waste Management and Remediation Services)
+            B007_016:      NAICS Sector 61 (Educational Services)
+            B007_017:      NAICS Sector 62 (Health Care and Social Assistance)
+            B007_018:      NAICS Sector 71 (Arts, Entertainment, and Recreation)
+            B007_019:      NAICS Sector 72 (Accommodation and Food Services)
+            B007_020:      NAICS Sector 81 (Other Services [Except Public Administration])
+            B007_021:      NAICS Sector 92 (Public Administration)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      CT:             Census Tract
+      B007_001:       Total Number of Jobs
+      B007_002:       Total Number of Jobs: NAICS Sector 11 (Agriculture, Forestry, Fishing and Hunting)
+      B007_003:       Total Number of Jobs: NAICS Sector 21 (Mining, Quarrying, and Oil and Gas Extraction)
+      B007_004:       Total Number of Jobs: NAICS Sector 22 (Utilities)
+      B007_005:       Total Number of Jobs: NAICS Sector 23 (Construction)
+      B007_006:       Total Number of Jobs: NAICS Sector 31-33 (Manufacturing)
+      B007_007:       Total Number of Jobs: NAICS Sector 42 (Wholesale Trade)
+      B007_008:       Total Number of Jobs: NAICS Sector 44-45 (Retail Trade)
+      B007_009:       Total Number of Jobs: NAICS Sector 48-49 (Transportation and Warehousing)
+      B007_010:       Total Number of Jobs: NAICS Sector 51 (Information)
+      B007_011:       Total Number of Jobs: NAICS Sector 52 (Finance and Insurance)
+      B007_012:       Total Number of Jobs: NAICS Sector 53 (Real Estate and Rental and Leasing)
+      B007_013:       Total Number of Jobs: NAICS Sector 54 (Professional, Scientific, and Technical Services)
+      B007_014:       Total Number of Jobs: NAICS Sector 55 (Management of Companies and Enterprises)
+      B007_015:       Total Number of Jobs: NAICS Sector 56 (Administrative and Support and Waste Management and Remediation Services)
+      B007_016:       Total Number of Jobs: NAICS Sector 61 (Educational Services)
+      B007_017:       Total Number of Jobs: NAICS Sector 62 (Health Care and Social Assistance)
+      B007_018:       Total Number of Jobs: NAICS Sector 71 (Arts, Entertainment, and Recreation)
+      B007_019:       Total Number of Jobs: NAICS Sector 72 (Accommodation and Food Services)
+      B007_020:       Total Number of Jobs: NAICS Sector 81 (Other Services [Except Public Administration])
+      B007_021:       Total Number of Jobs: NAICS Sector 92 (Public Administration)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2019
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12287099
+
+If you have any questions contact info@socialexplorer.com
